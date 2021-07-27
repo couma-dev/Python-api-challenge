@@ -1,3 +1,1 @@
-mkey = "AIzaSyCcAN0T08slPgEIJ3noUaVnOnyBqrrnuMQ"
-pkey = "AIzaSyAWJLQ-S8mchOGWDzmEAu0yBfTPqM024L8"
-gkey = "AIzaSyBs-r2GKPt7IxZ3utDMLjaUoKXn6RMUEHA"
+api_key = "5f02fe7d453b73e3cf07552b2c5cace6"
